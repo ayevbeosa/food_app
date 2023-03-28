@@ -1,0 +1,24 @@
+{
+  "message": "",
+  "success": true,
+  "data": [
+    {
+      "name": "German Doner Kehab",
+      "phone": "+123456789",
+      "email": "example@email.com",
+      "notes": "All dishes may contain traces of the following: Crustaceans, Eggs, Fish, Peanuts.",
+      "rating": "4.5",
+      "noOfReviews": "500",
+      "deliveryTime": "15 - 25"
+    },
+    {
+      "name": "German Doner Kehab",
+      "phone": "+123456789",
+      "email": "example@email.com",
+      "notes": "All dishes may contain traces of the following: Crustaceans, Eggs, Fish, Peanuts.",
+      "rating": "4.5",
+      "noOfReviews": "500",
+      "deliveryTime": "15 - 25"
+    }
+  ]
+}

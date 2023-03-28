@@ -1,0 +1,2405 @@
+{
+  "message": "",
+  "success": true,
+  "data": {
+    "names": [
+      "Featured",
+      "All",
+      "Top Rated"
+    ],
+    "restaurants": [
+      {
+        "section": "Featured",
+        "name": "German Doner Kehab",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "distance_from_user_location": "0.4",
+        "address": "3 Richmond Street",
+        "notes": "All dishes may contain traces of the following: Crustaceans, Eggs, Fish, Peanuts.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_2.jpg",
+          "assets/images/restaurant_image_3.jpg"
+        ],
+        "categories": "Brunch, Sandwiches, Wraps",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Featured",
+        "name": "Saucy Chicks",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_3.jpg",
+          "assets/images/restaurant_image_4.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Featured",
+        "name": "Sainbury\"s",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_4.jpg",
+          "assets/images/restaurant_image_2.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Featured",
+        "name": "Rudy\"s Pizza",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_2.jpg",
+          "assets/images/restaurant_image_3.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "All",
+        "name": "BB Bakery",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_3.jpg",
+          "assets/images/restaurant_image_4.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "All",
+        "name": "Chicken Republic",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_4.jpg",
+          "assets/images/restaurant_image_3.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "All",
+        "name": "Shoprite",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_4.jpg",
+          "assets/images/restaurant_image_2.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "All",
+        "name": "YO!",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_2.jpg",
+          "assets/images/restaurant_image_4.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "All",
+        "name": "Taco Bell",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_2.jpg",
+          "assets/images/restaurant_image_3.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Top Rated",
+        "name": "Burger King",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_2.jpg",
+          "assets/images/restaurant_image_3.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Top Rated",
+        "name": "PizzaExpress",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_2.jpg",
+          "assets/images/restaurant_image_3.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Top Rated",
+        "name": "Krispy Kreme",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_2.jpg",
+          "assets/images/restaurant_image_3.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Top Rated",
+        "name": "ALDI",
+        "phone": "+123456789",
+        "email": "example@email.com",
+        "notes": "All dishes may contain traces of the following allergens: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts (e.g. almonds, hazelnuts, walnuts, cashews, pecan nuts, Brazil nuts, pistachio nuts, macadamia nuts), Celery, Mustard, Sesame, Sulphur dioxide/sulphites, Lupin, Molluscs. For any questions regarding the allergen contents of specific dishes please contact the restaurant directly.",
+        "rating": "4.5",
+        "no_of_reviews": "500",
+        "delivery_time": "15 - 25",
+        "address": "3 Richmond Street",
+        "order_categories": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+        "categories": "Brunch, Sandwiches, Wraps",
+        "images": [
+          "assets/images/restaurant_image_1.jpg",
+          "assets/images/restaurant_image_2.jpg",
+          "assets/images/restaurant_image_3.jpg"
+        ],
+        "distance_from_user_location": "0.6",
+        "orders": [
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Add a drink",
+                "selection_type": "multiple",
+                "options": [
+                  {
+                    "name": "Coca-Cola",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Sprite",
+                    "price": "2.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Diet Coke",
+                    "price": "2.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Bread Options",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Sliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Unsliced Bread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Shortbread",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              },
+              {
+                "option_name": "Toasted",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Yes",
+                    "price": "0.0",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "No",
+                    "price": "0.0",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Salad options",
+                "selection_type": "dual",
+                "options": [
+                  {
+                    "name": "Tomatoes",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Corn",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Lettuce",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Baked Beans",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Cucumber",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": []
+          },
+          {
+            "category": "Cold Meza, Grill and Main, Traditional Dishes - Main, Wraps",
+            "name": "Name",
+            "description": "Description",
+            "unit_price": "1.00",
+            "additions": [
+              {
+                "option_name": "Milk",
+                "selection_type": "single",
+                "options": [
+                  {
+                    "name": "Dairy",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Almond",
+                    "price": "0.60",
+                    "quantity": "1"
+                  },
+                  {
+                    "name": "Soya",
+                    "price": "0.60",
+                    "quantity": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
